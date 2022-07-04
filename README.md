@@ -1,7 +1,7 @@
 ## Welcome to Ilfan Project binar-challenge-chapter-3
 
 This project is created as a final project of binar chapter 3 and as a requirement to finish the chapter.  
-You can use, copy, and redistribute this program, but you must disclose the source 
+You can use, copy, and redistribute this program, but you must disclose the source.
 
 ### Jekyll Themes
 
